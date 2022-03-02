@@ -1,0 +1,15 @@
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\bin\Debug\net5.0\FileApi.Service.deps.json
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\bin\Debug\net5.0\FileApi.Service.dll
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\bin\Debug\net5.0\ref\FileApi.Service.dll
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\bin\Debug\net5.0\FileApi.Service.pdb
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\bin\Debug\net5.0\FileApi.Models.dll
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\bin\Debug\net5.0\FileApi.Models.pdb
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\obj\Debug\net5.0\FileApi.Service.csproj.AssemblyReference.cache
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\obj\Debug\net5.0\FileApi.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\obj\Debug\net5.0\FileApi.Service.AssemblyInfoInputs.cache
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\obj\Debug\net5.0\FileApi.Service.AssemblyInfo.cs
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\obj\Debug\net5.0\FileApi.Service.csproj.CoreCompileInputs.cache
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\obj\Debug\net5.0\FileApi.Service.csproj.CopyComplete
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\obj\Debug\net5.0\FileApi.Service.dll
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\obj\Debug\net5.0\ref\FileApi.Service.dll
+C:\Users\yenil\Desktop\Api\FileApi\FileApi.Service\obj\Debug\net5.0\FileApi.Service.pdb
